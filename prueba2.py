@@ -1,2 +1,1 @@
-data = 'Hola Mundo\r\n'
-print(data)
+rs = 'c:\\newdata\\test'

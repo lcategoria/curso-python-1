@@ -95,6 +95,3 @@ if a > b:
 else:
     print('Computer says false')'''
 
-print("hola")
-print("hola")
-print("hola")
